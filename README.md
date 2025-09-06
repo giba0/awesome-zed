@@ -60,6 +60,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 
 - [Starting Zed Blazing fast code editor IDE?](https://youtu.be/6ztTDhH14Hw) - A simple introduction to getting started with the Zed editor and its basic functionality.
 - [[Workshop] MCP and Zed IDE | Guide on how to build your own MCP Server!](https://youtu.be/VJr90F_dlY4) - A workshop on building an MCP server to extend Zed's functionality with custom commands.
+- [Why I Switched to Zed after 15 years of Vim](https://www.youtube.com/watch?v=ltE30UmsBlY) - An overview of the Zed code editor for Vim users by Jack Kinsella of Semicolon & Sons.
 - [Zed + MCP Servers](https://youtu.be/fuFrYyXgSEQ) - Demonstrates how to add and configure Model Context Protocol (MCP) servers within the Zed IDE.
 
 
