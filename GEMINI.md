@@ -6,9 +6,11 @@ This guide provides instructions and prompt examples for using the Gemini CLI (`
 
 All contributions made via the Gemini CLI must follow the workflow outlined in `CONTRIBUTING.md`. This includes creating a new, descriptively named branch for each change, making the change, and pushing that branch for a Pull Request.
 
+
 Branch names should follow the convention defined in `CONTRIBUTING.md` (`feat/name`, `fix/name`, etc.).
 
 The agent should be instructed to follow this workflow for every request.
+
 
 ## Example Prompts
 
