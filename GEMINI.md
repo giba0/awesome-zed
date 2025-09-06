@@ -6,7 +6,11 @@ This guide provides instructions and prompt examples for using the Gemini CLI (`
 
 All contributions made via the Gemini CLI must follow the workflow outlined in `CONTRIBUTING.md`. This includes creating a new, descriptively named branch for each change, making the change, and pushing that branch for a Pull Request.
 
-The agent should be instructed to follow this workflow for every request, including committing and pushing the changes.
+
+Branch names should follow the convention defined in `CONTRIBUTING.md` (`feat/name`, `fix/name`, etc.).
+
+The agent should be instructed to follow this workflow for every request.
+
 
 ## Example Prompts
 
@@ -20,7 +24,7 @@ Use this prompt to add a new resource. Provide the category, URL, name, and a cl
 Acting as a contributor to the Awesome Zed repository, please add a new item to the list.
 
 1.  Follow the contribution guide by creating a new branch for this change. Name it `feat/add-new-resource-name`.
-2.  Add the following item to the "[CATEGORY]" section of the `README.md` file, ensuring it follows the established format:
+2.  Add the following item to the "[CATEGORY]" section of the `README.md` file, ensuring it is in the correct alphabetical order and follows the established format:
     - **URL:** [The URL of the resource]
     - **Name:** [The name of the resource]
     - **Description:** [A brief, one-sentence description of the resource.]
