@@ -14,6 +14,7 @@ Thank you for your interest in contributing to Awesome Zed! Your help is appreci
 
 ## Contribution Guidelines
 
+-   Please keep lists alphabetically sorted.
 -   Please search the list to avoid duplicate entries.
 -   Use the following format for your entry: `- [Resource Name](https://example.com/) - A brief, but descriptive, sentence about the resource.`
 -   Ensure your link is to the official or primary source for the resource.
