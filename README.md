@@ -31,6 +31,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 - [Zed Documentation - Getting Started](https://zed.dev/docs/getting-started) - The official guide to getting started with Zed.
 - [Zed is Now Open Source](https://zed.dev/blog/zed-is-now-open-source) - The official blog post announcing the move to open source and what it means for the community.
 - [Zed: Learn Everything About the Open-Source Code Editor Built in Rust](https://daily.dev/blog/zed-learn-everything-about-the-open-source-code-editor-built-in-rust) - A comprehensive overview of Zed's features, performance, and collaborative capabilities.
+- [Easy Telescope-style file finder in Zed](https://github.com/zed-industries/zed/discussions/22581) - A community-led discussion and guide for implementing a Telescope-like fuzzy file finder in Zed.
 
 ## Configuration Examples
 
