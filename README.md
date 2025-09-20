@@ -55,6 +55,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 ## Tools
 
 - [GitHub Actions Extension](https://zed.dev/extensions/github-actions) - An extension to get LSP support for GitHub Actions workflow files.
+- [Terminal Trove](https://terminaltrove.com/) - A curated list of powerful and productive terminal-based applications.
 - [Zed Extension CLI](https://github.com/zed-industries/extensions) - The official command-line tool for creating and managing Zed extensions.
 - [zedtutor](https://github.com/llamaha/zedtutor) - An interactive tutorial to learn the Zed IDE by doing.
 
