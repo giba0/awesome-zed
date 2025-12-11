@@ -44,6 +44,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 - [Codebook Spell Checker](https://github.com/blopker/codebook) - A code-aware spell checker built in Rust.
 - [Live Server](https://github.com/frederik-uni/zed-live-server) - A local development server with live reload feature.
 - [Material Icon Theme](https://github.com/zed-extensions/material-icon-theme) - The official Material Icon Theme for Zed.
+- [Todo Tree](https://github.com/alexandretrotel/zed-todo-tree) - Highlights and locates TODO-style comments with syntax highlighting and slash commands.
 
 ## Themes
 
