@@ -42,6 +42,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 
 - [BasedPyright](https://zed.dev/extensions/basedpyright) - Python type checking and language server support via Pyright.
 - [Codebook Spell Checker](https://github.com/blopker/codebook) - A code-aware spell checker built in Rust.
+- [IWE](https://github.com/iwe-org/zed-iwe) - An LSP-powered markdown knowledge management extension with go-to-definition, backlinks, link completion, and code actions.
 - [Live Server](https://github.com/frederik-uni/zed-live-server) - A local development server with live reload feature.
 - [Material Icon Theme](https://github.com/zed-extensions/material-icon-theme) - The official Material Icon Theme for Zed.
 
