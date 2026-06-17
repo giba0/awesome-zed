@@ -23,6 +23,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers/) - A curated list of servers that use the Model Context Protocol (MCP) to give AI models access to external tools.
 - [Sol / CORE](https://docs.heysol.ai/providers/zed) - An AI integration that provides a persistent, cross-application memory graph to your Zed assistant via MCP.
+- [Hindsight](https://github.com/vectorize-io/hindsight/tree/main/hindsight-integrations/zed) - Persistent long-term memory for your Zed assistant via MCP — one command wires up the Hindsight MCP server plus an automatic recall/retain rule.
 
 ## Articles & Tutorials
 - [Easy Telescope-style file finder in Zed](https://github.com/zed-industries/zed/discussions/22581) - A community-led discussion and guide for implementing a Telescope-like fuzzy file finder in Zed.
