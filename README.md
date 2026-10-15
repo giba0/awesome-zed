@@ -22,6 +22,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 ## AI Integrations
 
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers/) - A curated list of servers that use the Model Context Protocol (MCP) to give AI models access to external tools.
+- [Google Hotels MCP](https://github.com/huynhtanan/google-hotels-mcp) - A Model Context Protocol server for live Google Hotels, Vacation Rentals, and daily price calendar data in Zed via Claude or Cursor.
 - [Sol / CORE](https://docs.heysol.ai/providers/zed) - An AI integration that provides a persistent, cross-application memory graph to your Zed assistant via MCP.
 
 ## Articles & Tutorials
