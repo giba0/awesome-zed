@@ -48,6 +48,7 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 ## Themes
 
 - [Catppuccin](https://github.com/catppuccin/zed) - Soothing pastel theme for the high-performance Zed code editor.
+- [EditorThemes](https://editorthemes.com/editors/zed) - A gallery to preview and discover themes for Zed, with install instructions and the same palettes in other editors.
 - [Everforest](https://github.com/ThomasAlban/everforest-zed) - A port of the green-based Everforest color scheme.
 - [Synthwave '84](https://github.com/DanielMSchmidt/zed-synthwave) - A port of the popular Synthwave '84 theme from VS Code.
 - [zed-themes.com](https://zed-themes.com/) - A gallery to visually preview and discover themes for Zed.
